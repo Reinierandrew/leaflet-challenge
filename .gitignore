@@ -88,3 +88,8 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+Leaflet-Part-1/Index1.html
+Leaflet-Part-1/static/js/test.js
+Leaflet-Part-1/test.html
+Leaflet-Part-2/static/js/mygeodata_merged.json
+static/css/style.css
