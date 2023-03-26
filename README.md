@@ -7,4 +7,4 @@ The below map represents the earthquakes above the Richter scale of 4.5 for the 
 This was produced for an assignment using data from the USGS . USGS provides earthquake data , updated every 5 minutes and their GeoJSON Feed Links are used as the source data. Using D3 and leaflet the data is structured to produce the below map with various layers.
 
 
-![Screenshot](static/Images/BBC2.jpg)
+![Screenshot](static/Images/Mapscreenshot.png)
