@@ -5,8 +5,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Leaflet Step-1</title>
+  <title>Eartquakes</title>
 
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -17,6 +19,15 @@
 </head>
 
 <body>
+
+<!--<div id='map' style='width: 1200px; height: 900px;'></div>-->
+<!--<script>-->
+<!--  mapboxgl.accessToken = 'YOUR_MAPBOX_ACCESS_TOKEN';-->
+<!--  var map = new mapboxgl.Map({-->
+<!--    container: 'map',-->
+<!--    style: 'mapbox://styles/mapbox/streets-v11'-->
+<!--  });-->
+<!--</script>-->
 
   <!-- The div that holds our map -->
   <div id="map"></div>
